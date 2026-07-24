@@ -8,7 +8,7 @@
 
 
 
-<h1>Physhing</h1>
+<h1>Como funciona o Physhing</h1>
 
 <h2>&#x26A0 AVISO &#x26A0</h2>
 <br>
